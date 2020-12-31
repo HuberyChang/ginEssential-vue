@@ -1,1 +1,0 @@
-# ginEssential-vue
